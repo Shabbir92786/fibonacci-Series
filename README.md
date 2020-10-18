@@ -1,2 +1,2 @@
 ## Fibonacci-Series
-Here is the program to find Fibonacci Series in Python.
+Here is the program to find the Fibonacci Series in Python.
